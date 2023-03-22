@@ -2,13 +2,14 @@
 *Robotraffic 4-Wheel Lego Car Winner 1rd and 2rd Place 2023*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100553554/226945971-5fc1e675-acf7-41e1-b68e-191afd341783.png" width="500">
-  <img src="https://user-images.githubusercontent.com/100553554/226945534-ca5688c9-c94b-4c65-80f1-559ce1cf6fef.png" width="500">
+  <img src="https://user-images.githubusercontent.com/100553554/226945971-5fc1e675-acf7-41e1-b68e-191afd341783.png" width="700">
+  <img src="https://user-images.githubusercontent.com/100553554/226945534-ca5688c9-c94b-4c65-80f1-559ce1cf6fef.png" width="700">
  </p>
  
  # PID for Lego Ackerman
+
  <p align="center">
-  <video src="" controls></video>
+  <video src="https://user-images.githubusercontent.com/100553554/226962012-d1564a5c-4ce5-49ce-ba1d-1b38b5acf0b1.mp4" controls autoplay  width="1000"></video>
   </p>
   
 # Picture
